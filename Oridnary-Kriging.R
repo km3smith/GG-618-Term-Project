@@ -1,19 +1,15 @@
 # Install require packages and load libraries
-install.packages("sf")
 install.packages("sp")
 install.packages("gstat")
 install.packages("automap")
 install.packages("raster")
-install.packages("ggplot2")
 install.packages("patchwork")
 install.packages("tidyverse")
 
-library(sf)
 library(sp)
 library(gstat)
 library(automap)
 library(raster)
-library(ggplot2)
 library(patchwork)
 library(tidyverse)
 
